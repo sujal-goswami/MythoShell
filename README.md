@@ -31,7 +31,7 @@ To make MythoShell permanently available whenever you open a new terminal sessio
 2. Add the command in end to run the MythoShell script. The command should resemble: `bash /path/to/mythoshell.sh`.Replace `/path/to/mythoshell.sh` with the actual path to the `mythoshell.sh` file on your system.
 3. Close and reopen your terminal, or run the command `source ~/.bashrc` (or the relevant file) to apply the changes immediately.
 Now, whenever you open a new terminal session, the MythoShell environment will be automatically activated, allowing you to enjoy the Indian mythological language-themed commands.
-> #### Note: Ensure that the shell script file `mythoshell.sh` is placed in a location accessible by your system, and modify the startup file's path accordingly.
+> 📝 **Note :** Ensure that the shell script file `mythoshell.sh` is placed in a location accessible by your system, and modify the startup file's path accordingly.
 
 ### Usage and Commands:
 
