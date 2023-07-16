@@ -18,8 +18,8 @@ MythoShell is a shell script project that maps common Bash commands to an Indian
 4. Before executing the script, ensure that it has executable permissions. If not, run the command `chmod +x mythoshell.sh` to make it executable.
 5. To run the MythoShell script, use one of the following commands, depending on the file's permissions:
 ```
-   bash mythoshell.sh
-   ./mythoshell.sh
+   source mythoshell.sh
+   . mythoshell.sh
 ```
    This will activate the MythoShell environment and replace the default commands with their Indian mythological language-themed alternatives.
    
@@ -28,7 +28,7 @@ MythoShell is a shell script project that maps common Bash commands to an Indian
 ### Making MythoShell Permanent:
 To make MythoShell permanently available whenever you open a new terminal session, follow these steps:
 1. Determine the appropriate shell startup file for your system. Common startup file names are `~/.bashrc`, `~/.bash_profile`, or `~/.zshrc`. The startup file is executed every time a new terminal session is opened.
-2. Add the command in end to run the MythoShell script. The command should resemble: `bash /path/to/mythoshell.sh`.Replace `/path/to/mythoshell.sh` with the actual path to the `mythoshell.sh` file on your system.
+2. Add the command in end to run the MythoShell script. The command should resemble: `source /path/to/mythoshell.sh`.Replace `/path/to/mythoshell.sh` with the actual path to the `mythoshell.sh` file on your system.
 3. Close and reopen your terminal, or run the command `source ~/.bashrc` (or the relevant file) to apply the changes immediately.
 Now, whenever you open a new terminal session, the MythoShell environment will be automatically activated, allowing you to enjoy the Indian mythological language-themed commands.
 > 📝 **Note :** Ensure that the shell script file `mythoshell.sh` is placed in a location accessible by your system, and modify the startup file's path accordingly.
