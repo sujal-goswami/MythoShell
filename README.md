@@ -56,5 +56,5 @@ Now, whenever you open a new terminal session, the MythoShell environment will b
 | whoami                     | aham                       |
 | touch                      | sparsha                    |
 | wget                       | amrit                      |
-| apt-get update             | amrita-prapti              |
-
+| apt-get                    | amrita-prapti              |
+| clear                      | shuddhikaran               |
