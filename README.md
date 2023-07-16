@@ -23,12 +23,12 @@ MythoShell is a shell script project that maps common Bash commands to an Indian
 ```
    This will activate the MythoShell environment and replace the default commands with their Indian mythological language-themed alternatives.
    
-6. Once the script is executed, you can start using the themed commands in your terminal. Try running ls, cd, or any other command you have mapped to the Indian mythological language theme.
+6. Once the script is executed, you can start using the themed commands in your terminal. Try running ls, cd, or any other command in the list below.
 
 ### Making MythoShell Permanent:
 To make MythoShell permanently available whenever you open a new terminal session, follow these steps:
 1. Determine the appropriate shell startup file for your system. Common startup file names are `~/.bashrc`, `~/.bash_profile`, or `~/.zshrc`. The startup file is executed every time a new terminal session is opened.
-2. Add the command in end to run the MythoShell script. The command should resemble: `source /path/to/mythoshell.sh`.Replace `/path/to/mythoshell.sh` with the actual path to the `mythoshell.sh` file on your system.
+2. Add the command in end to run the MythoShell script. The command should resemble: `source /path/to/mythoshell.sh`. Replace `/path/to/mythoshell.sh` with the actual path to the `mythoshell.sh` file on your system.
 3. Close and reopen your terminal, or run the command `source ~/.bashrc` (or the relevant file) to apply the changes immediately.
 Now, whenever you open a new terminal session, the MythoShell environment will be automatically activated, allowing you to enjoy the Indian mythological language-themed commands.
 > 📝 **Note :** Ensure that the shell script file `mythoshell.sh` is placed in a location accessible by your system, and modify the startup file's path accordingly.
