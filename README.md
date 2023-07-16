@@ -1,6 +1,12 @@
+
 # MythoShell
 > *Unleash the Power of Mythological Scripting*
 
+<p align="center">
+ <kbd><img src="https://github.com/sujal-goswami/MythoShell/blob/main/MythoShell.gif" width="550" height="550"/></kbd>
+</p>
+
+---------------------------------------
 ## MythoShell Installation and Setup Guide
 MythoShell is a shell script project that maps common Bash commands to an Indian mythological theme. Follow the instructions below to run and make the project work on your system.
 
