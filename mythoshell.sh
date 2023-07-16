@@ -2,6 +2,7 @@
 
 # This file contains the main shell script for MythoSelf.
 
+echo "  🔱 Welcome to MythoShell. Type 'margdarshan' for a list of commands."
 
 function devata() {
     sudo $1
@@ -85,4 +86,29 @@ function amrita-prapti() {
 
 function shuddhikaran(){
     clear
+}
+
+function margdarshan(){
+    # this function will list all the commands mapping to their functions
+    echo " sudo :  devata"
+    echo " man : grantha"
+    echo " ls : drishti"
+    echo " cd : prasthan"
+    echo " pwd : sthan"
+    echo " mkdir : rachana"
+    echo " rm : vinash"
+    echo " cp : anupalan"
+    echo " mv : sthapana"
+    echo " cat : katha"
+    echo " grep : spurana"
+    echo " chmod : adhikara"
+    echo " echo :	dhavani"
+    echo " date : samayachakra"
+    echo " find :	khoya"
+    echo " history : itihasa"
+    echo " whoami : aham"
+    echo " touch : sparsha"
+    echo " wget :	amrit"
+    echo " apt-get : amrita-prapti"
+    echo " clear : shuddhikaran"
 }
