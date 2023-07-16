@@ -35,6 +35,8 @@ Now, whenever you open a new terminal session, the MythoShell environment will b
 
 ### Usage and Commands:
 
+Type `margdarshan` to view list.
+
 | Old Command                | New Command                |
 |:--------------------------:|:--------------------------:|
 | sudo                       | devata                     |
